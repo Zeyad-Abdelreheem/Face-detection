@@ -18,7 +18,7 @@ This repo goes through the object detection pipeline and takes the face as an ex
 ## 5.1 - Evaluate the performance
 ## 6 - Real-time test
 
-#### -------------------------------------------------
+#### ----------------------------------------------------------------------------------------------------------------
 
 ## 1 - Collect the dataset
 
@@ -69,7 +69,7 @@ in real_time_test.py you will find the code that access the web cam then feed th
 
 
 # Resources:-
-## [1] Nicholas renotte youtube channel : https://www.youtube.com/watch?v=N_W4EYtsa10
-## [2] labelme :  https://github.com/wkentaro/labelme
-## [3] albumentations : https://albumentations.ai/
-## [4] VGG16 : https://keras.io/api/applications/vgg/
+#### [1] Nicholas renotte youtube channel : https://www.youtube.com/watch?v=N_W4EYtsa10
+#### [2] labelme :  https://github.com/wkentaro/labelme
+#### [3] albumentations : https://albumentations.ai/
+#### [4] VGG16 : https://keras.io/api/applications/vgg/
