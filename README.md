@@ -18,7 +18,7 @@ This repo goes through the object detection pipeline and takes the face as an ex
 ## 5.1 - Evaluate the performance
 ## 6 - Real-time test
 
-
+#### -------------------------------------------------
 
 ## 1 - Collect the dataset
 
