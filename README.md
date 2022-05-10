@@ -1,5 +1,6 @@
 # Face-detection
 This repo goes through the object detection pipeline and takes the face as an example
+you can replace the faces dataset by any object that VGG16 was trained on
 
 # The expected output
 <img src="/face_test.png" alt="face" title="test image">
