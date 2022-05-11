@@ -63,8 +63,7 @@ feel free to test the model on any dataset you would like
 
 I decided to test the model in real time (this will be my metrics of evalutaion)
 
-## 6 - real time test
-
+## 6 - Real-time test
 in real_time_test.py you will find the code that access the web cam then feed those pics to the model to get the bounding box coordinates
 
 
