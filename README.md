@@ -16,7 +16,7 @@ you can replace the faces dataset by any object that VGG16 was trained on
 ## 3 - Augment the data
 ## 4 - Build the model
 ## 5 - Train the model
-## 5.1 - Evaluate the performance
+### 5.1 - Evaluate the performance
 ## 6 - Real-time test
 
 #### ----------------------------------------------------------------------------------------------------------------
