@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 import os
 import cv2.cv2 as cv2 
 import json
@@ -95,16 +92,6 @@ def augment_data(images_path , labels_path ,aug_data_path , aug_labels_path , au
 
         except Exception as e:
             print(e)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
